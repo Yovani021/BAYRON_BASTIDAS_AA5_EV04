@@ -1,0 +1,6 @@
+ENDPOINTS API BUILD X PRO
+
+GET     http://localhost:8080/usuarios
+POST    http://localhost:8080/usuarios
+PUT     http://localhost:8080/usuarios/#id
+DELETE  http://localhost:8080/usuarios/#id
